@@ -6,8 +6,9 @@
   }
   
   body {
-    background-color:  #16697a;
+    background: linear-gradient(45deg, #16697a, rgb(11, 139, 225),#16697a);
   }
+  
   
   #first_page {
     min-height: 100vh;
@@ -21,6 +22,7 @@
   }
   
   #content_wrapper {
+    background: linear-gradient(45deg, #16697a, rgb(11, 139, 225),#16697a);
     background-color: rgba(255, 255, 255, 0.05);
     backdrop-filter: blur(6px);
     padding: 40px;
